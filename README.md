@@ -1,7 +1,7 @@
 LiteEngine2D
 ============
 
-Lite 2D Game Engine
+Lite 2D Game Engine-PUSHEEN GAME. OPEN IN VISUAL STUDIO ONLY
 
 ## Table of contents
 
