@@ -2,11 +2,13 @@
 #define GAME_H
 
 #include "Scene.h"
+#include "Scene2.h"
 
-class Game
+class Game 
 {
 public:
 	Scene* _currentScene;
+	Scene2* _currentScene2;
 
 public:
 	static Game* Instance ();

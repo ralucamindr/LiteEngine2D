@@ -21,6 +21,7 @@ public:
 	static Vector2 Forward;
 	static Vector2 One;
 	static Vector2 Zero;
+	static Vector2 Gravity;
 private:
 	float _x, _y;
 

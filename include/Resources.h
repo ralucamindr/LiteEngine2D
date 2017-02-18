@@ -4,7 +4,7 @@
 #include <string>
 
 #include "Image.h"
-
+#include <Windows.h>
 class Resources
 {
 public:
